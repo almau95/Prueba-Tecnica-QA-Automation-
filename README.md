@@ -4,8 +4,8 @@ Automatización MaterialLoginExample (Android)
 
 # Requisitos
 
-Node.js: Instalación de Node.js
-Appium: Instalación de Appium
+Node.js: Instalación de Node.js /n
+Appium: Instalación de Appium /n
 WebdriverIO: Incluido como dependencia en el proyecto
 Cucumber: Instalado como parte de las dependencias
 Emulador o dispositivo físico Android configurado para pruebas
