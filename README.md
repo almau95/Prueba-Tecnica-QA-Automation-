@@ -34,11 +34,13 @@ Para ejecutar todas las pruebas se ejecuta el siguiente comando:
     npx wdio run wdio.conf.ts
 
 Para ejecutar determinados archivos o módulos se utiliza el comando --spec:
-    npx wdio run wdio.conf.ts --spec features/registro_user.feature
+    
+    - npx wdio run wdio.conf.ts --spec features/registro_user.feature
 
-    npx wdio run wdio.conf.ts --spec features/login.feature
+    - npx wdio run wdio.conf.ts --spec features/login.feature
 
 Para ejecutar con diferentes niveles de log o configuraciones específicas:
-    npx wdio run wdio.conf.ts --logLevel error
+    
+    - npx wdio run wdio.conf.ts --logLevel error
 
-    npx wdio run wdio.conf.ts --cucumberOpts.tagExpression="@smoke"
+    - npx wdio run wdio.conf.ts --cucumberOpts.tagExpression="@smoke"
