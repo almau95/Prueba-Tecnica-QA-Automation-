@@ -31,7 +31,8 @@ Para ejecutar las pruebas:
 
 - Build and Test
 Para ejecutar todas las pruebas se ejecuta el siguiente comando:
-    npx wdio run wdio.conf.ts
+    
+    - npx wdio run wdio.conf.ts
 
 Para ejecutar determinados archivos o módulos se utiliza el comando --spec:
     
