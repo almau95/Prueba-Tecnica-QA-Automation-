@@ -20,10 +20,10 @@ Automatización MaterialLoginExample (Android)
 3. Configura Appium y WebdriverIO.
 4. Asegúrate de que el archivo wdio.conf.js esté configurado correctamente para tu dispositivo o emulador:
 
-	platformName: Debe ser "Android".
-	deviceName: Nombre de tu dispositivo o emulador.
-	app: Ruta a la aplicación MaterialLoginExample.apk.
-	automationName: "UiAutomator2" para Android.
+	- platformName: Debe ser "Android".
+	- deviceName: Nombre de tu dispositivo o emulador.
+	- app: Ruta a la aplicación MaterialLoginExample.apk.
+	- automationName: "UiAutomator2" para Android.
 
 ## Ejecución de Pruebas
 
