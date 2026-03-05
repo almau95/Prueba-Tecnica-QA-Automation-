@@ -14,7 +14,7 @@ Git para la clonación y gestión del repositorio
 ## Instalación
 
 1. Clona este repositorio.
-	git clone https://github.com/almau95/Prueba-tecnica-APP.git
+	git clone https://github.com/almau95/Prueba-Tecnica-QA-Automation-.git
 
 2. Instala las dependencias con `npm install`.
 3. Configura Appium y WebdriverIO.
