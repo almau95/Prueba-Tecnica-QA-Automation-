@@ -1,0 +1,20 @@
+{
+  "name": "Prueba técnica QA Automate",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "@wdio/appium-service": "^9.24.0",
+    "@wdio/cli": "^9.24.0",
+    "@wdio/cucumber-framework": "^9.24.0",
+    "@wdio/globals": "^9.23.0",
+    "@wdio/local-runner": "^9.24.0",
+    "@wdio/spec-reporter": "^9.24.0",
+    "@wdio/visual-service": "^9.1.6",
+    "appium-uiautomator2-driver": "^7.0.0",
+    "expect-webdriverio": "^5.6.4",
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.ts"
+  }
+}
